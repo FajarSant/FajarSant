@@ -9,7 +9,7 @@
   
 - 🌱 Saat ini saya sedang belajar **React Native dan Fullter**
 
-- 📄 Motto Hidup: [TETAP ILMU PADI](TETAP ILMU PADI)
+- 📄 Motto Hidup: [TETAP ILMU PADI]
 
 - ⚡ HOBBY SAYA **💻 ngoding.🎧 mendengarkan musik. dan 🎮 bermain game.**
 </div>
