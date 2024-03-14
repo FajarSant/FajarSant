@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Fajar Sant</h1>
  <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" align="right" />
- ###
+ 
 <div align="left">
   <h3 align="center">saya seorang mahasiswa yang sedang fokus dalam bidang fullstack devlopers</h3>
   
