@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Fajar Sant</h1>
 <div align="left">
- <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" align="right" />
   🌱 Saat ini saya sedang belajar React Native dan Flutter
   HOBBY SAYA
   - 💻 Saya suka ngoding.
@@ -11,6 +10,7 @@
   - 🎮 Saya juga senang bermain game.
   ⚡ Saya seorang Fullstack Web Developer
   📄Motto Hidup : TETAP ILMU PADI
+ <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" align="right" />
 </div>
 
 
