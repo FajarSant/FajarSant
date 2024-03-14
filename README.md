@@ -5,13 +5,14 @@
  <img alt="coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" align="right" />
  ###
 <div align="left">
-  🌱 Saat ini saya sedang belajar React Native dan Flutter
-  HOBBY SAYA
-  - 💻 Saya suka ngoding.
-  - 🎧 Saya menikmati mendengarkan musik.
-  - 🎮 Saya juga senang bermain game.
-  ⚡ Saya seorang Fullstack Web Developer
-  📄Motto Hidup : TETAP ILMU PADI
+  <h3 align="center">saya seorang mahasiswa yang sedang fokus dalam bidang fullstack devlopers</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarsant&label=Profile%20views&color=0e75b6&style=flat" alt="fajarsant" /> </p>
+
+- 🌱 Saat ini saya sedang belajar **React Native dan Fullter**
+
+- 📄 Motto Hidup: [TETAP ILMU PADI](TETAP ILMU PADI)
+
 </div>
 
 
