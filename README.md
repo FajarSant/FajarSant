@@ -6,6 +6,7 @@
  ###
 <div align="left">
   <h3 align="center">saya seorang mahasiswa yang sedang fokus dalam bidang fullstack devlopers</h3>
+  
 - 🌱 Saat ini saya sedang belajar **React Native dan Fullter**
 
 - 📄 Motto Hidup: [TETAP ILMU PADI](TETAP ILMU PADI)
