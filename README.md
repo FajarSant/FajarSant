@@ -11,7 +11,7 @@
 
 - 📄 Motto Hidup: [TETAP ILMU PADI]
 
-- ⚡ HOBBY SAYA : 💻 ngoding,🎧 mendengarkan musik, dan 🎮 bermain game.**
+- ⚡ HOBBY SAYA : 💻 ngoding,🎧 mendengarkan musik, dan 🎮 bermain game.
 </div>
 
 
