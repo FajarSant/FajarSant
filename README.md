@@ -1,3 +1,17 @@
+
+
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+----
+<br/>  
+
+
+<br />
+
+
+
 ### <div align="center">I'm Fajar Santoso, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
@@ -104,11 +118,3 @@
 <img src="https://komarev.com/ghpvc/?username=FajarSant&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
